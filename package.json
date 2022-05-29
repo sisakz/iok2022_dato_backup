@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "datocms-client": "^3.5.21"
+  }
+}
